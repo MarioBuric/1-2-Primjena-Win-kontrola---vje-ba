@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\bin\Debug\buricMario-PrimjenaWindowsKontrola.exe.config
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\bin\Debug\buricMario-PrimjenaWindowsKontrola.exe
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\bin\Debug\buricMario-PrimjenaWindowsKontrola.pdb
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario-PrimjenaWindowsKontrola.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario_PrimjenaWindowsKontrola.Form1.resources
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario_PrimjenaWindowsKontrola.FormaProgram.resources
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario_PrimjenaWindowsKontrola.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario-PrimjenaWindowsKontrola.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario-PrimjenaWindowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario-PrimjenaWindowsKontrola.exe
+C:\Users\Korisnik\Desktop\PRIM-WIN-KONT-DOVRSIT-master\buricMario-PrimjenaWindowsKontrola\obj\Debug\buricMario-PrimjenaWindowsKontrola.pdb
